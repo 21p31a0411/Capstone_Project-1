@@ -1,0 +1,228 @@
+div{
+    width: 1120px;
+    height: 600px;
+}
+.h1{
+    width: 1120px;
+    height: 500px;
+    background-image: url("ship.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img1{
+    width: 200;
+    height: 500;
+}
+.body{
+    width: 1120px;
+    height: 100px;
+    background-color: rgb(244, 238, 238);
+}
+.body1{
+    background-color: orange;
+    width: 1120px;
+    height: 200px;
+}
+.body2{
+    width: 1120px;
+    height: 300px;
+    background-color: rgb(244, 238, 238);
+}
+.img1{    
+    width: 150px;
+    height: 200px;
+    display: inline-block;
+    margin-top: 70px;
+}
+.img2{
+    width: 400px;
+    height: 400px;
+}
+#img10{
+    width: 610px;
+    height: 200px;
+    display: block;
+}
+h2{
+    font-size: 2rem;
+    font-weight: 800;
+    text-align: left;
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    float: right;
+    margin-right: 0px;
+    margin-bottom: 60px;
+    font-size: 1.5rem;
+    text-transform: capitalize;
+}
+.div4{
+    width: 1120px;
+    height: 300px;
+}
+h3{
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-align: left;
+    color: white;
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: 5rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 50px;
+    text-align: left ;
+    color: white;
+    padding-left:40px;
+}
+.p1{
+    font-size: 1rem;
+    text-align: left;
+}
+.h3{
+    width: 1120px;
+    height: 400px;
+    background-image: url("ship10.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.p1{
+    text-align: left;
+    font-size: 1rem;
+}
+img{
+    width: 500px;
+    height: 400px;
+}
+#div{
+    width: 1120px;
+    height: 500px;
+    outline: 2px solid rgb(255, 249, 249);
+    margin-top: 130px;
+}
+#div1{
+    width: 400px;
+    height: 500px;
+    margin-top:0px;
+    padding-top: 0px;
+    margin-bottom: 150px;
+    margin-right: 350px;
+    display: inline-block;
+    background-image: url(ship11.jpg);
+}
+#img9{
+    width: 300px;
+    height: 100px;
+    float: right;
+    display: inline-block;
+    margin-bottom: 50px;
+}
+#div6{
+    width: 300px;
+    height: 600px;
+    display: block;
+    float: right;
+}
+
+#div2{
+    width: 400px;
+    height: 200px;
+    margin-right: 0px;
+    padding-top: 100px;
+    padding-left: 200px;
+    float: right;
+}
+.body3{
+    width: 1120px;
+    height: 300px;
+    background-color: orange;
+}
+.body4{
+    width: 1120px;
+    height: 300px;
+    background-color: black;
+}
+.img6{ 
+    width: 900px;
+    height: 450px;
+    padding-left: 20px;
+}
+.a{
+    width: 250px;
+    height: 200px;
+    background-image: url();
+    outline: 2px solid black;
+    border-radius: 50%;
+    background-image: url(ship17.0.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 500px;
+    margin-right: 150px;
+}
+.b{
+    width: 250px;
+    height: 200px;
+    outline: 2px solid white;
+    display: inline-block;
+    margin-top: 0px;
+    background-image: url("ship18.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 500px;
+    margin-right: 150px;
+}
+.c{
+    width: 250px;
+    height: 600px;
+    outline: 2px solid orange;
+    background-color: orange;
+    display: inline-block;
+    margin-bottom: 300px;
+    background-image: url("ship20.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*{
+    box-sizing: border-box;
+}
+.e{
+    width: 1120px;
+    height: 1000;
+}
+.d{
+    width: 400px;
+    height: 200px;
+    outline: 2px solid orange;
+    display: block;
+    margin-left: 100px;
+    margin-right: 500px;
+    margin-bottom: 100px;
+    padding-bottom: 300px;
+}
+#e{
+    background-image: url("ship15.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1120px;
+    height: 700px;
+    font-size: 1.4rem;
+}
+.f{
+    background-color: white;
+    color: black;
+}
+.l{
+    float:right;
+    margin-right: 100px;
+}
+span{
+    margin-bottom: 100px;
+}
+
+
+
+
